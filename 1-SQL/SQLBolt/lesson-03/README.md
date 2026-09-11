@@ -13,6 +13,7 @@ I learned how to use `LIKE` for pattern matching, `NOT LIKE` for excluding text 
 ```sql
 SELECT * FROM movies
 WHERE title LIKE "%Toy%";
+```
 
 * [x] Find all the movies directed by John Lasseter
 

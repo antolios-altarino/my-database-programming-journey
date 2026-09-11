@@ -8,8 +8,8 @@ My SQL learning journey using [SQLBolt](https://sqlbolt.com/).
 
 ## Lessons
 
-- [ ] Lesson 1 — SELECT queries 101
-- [ ] Lesson 2 — Queries with constraints
+- [x] Lesson 1 — SELECT queries 101
+- [x] Lesson 2 — Queries with constraints
 - [ ] Lesson 3 — Queries with constraints (Pt. 2)
 - [ ] Lesson 4 — Filtering and sorting query results
 - [ ] Lesson 5 — Review: Simple SELECT Queries
